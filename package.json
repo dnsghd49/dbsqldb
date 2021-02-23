@@ -1,0 +1,22 @@
+{
+  "name": "dbsqldb",
+  "version": "1.0.0",
+  "description": "eatBurger",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnsghd49/dbsqldb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnsghd49/dbsqldb/issues"
+  },
+  "homepage": "https://github.com/dnsghd49/dbsqldb#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
