@@ -22,7 +22,7 @@ var burger = {
 		orm.deleteOne("burgers", condition, function (res) {
 			cb(res);
 		});
-	}
+	} 
 };
 
 
