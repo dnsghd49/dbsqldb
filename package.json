@@ -17,10 +17,7 @@
   },
   "homepage": "https://github.com/dnsghd49/dbsqldb#readme",
   "dependencies": {
-    "body-parser": "^1.17.1",
     "express": "^4.17.1",
-    "express-handlebars": "^3.0.0",
-    "method-override": "^2.3.8",
     "mysql": "^2.18.1",
     "request": "^2.88.2"
   }
