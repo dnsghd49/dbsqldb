@@ -26,7 +26,7 @@ This is the "Eat Da Burger" application using MVC. This app will let the user in
 
 ## Screenshot
 
-![ScreenShot](https://github.com/dnsghd49/dbsqldb/Ex: tree/public/assets/img/screenshot.PNG)
+![ScreenShot](https://raw.github.com/dnsghd49/dbsqldb/tree/public/assets/img/screenshot.PNG)
 
 ## Installation
 
