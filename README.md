@@ -8,7 +8,7 @@
 
 ## Description
 
-This is the "Eat Da Burger" application using MVC. This app will let the user input the name of a burger and order it. After it's done It will be move to the left column, and the user can press devour the selected burger that the user want. After a burger is devoured, the burger will be move to the right column and from there you can click delete button to delete the data.
+This is the "Eat Da Burger" application using MVC. This app will let the user input the name of a burger and order it. When the burger is finished cooking it will be move to the left column, and the user can press devour button to eat the desiered burger that the user want. After a burger is devoured, the burger will be move to the right column and from there you can click delete button to delete the data.
 
 ## Table of Contents 
 
