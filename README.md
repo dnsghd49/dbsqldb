@@ -16,10 +16,6 @@ This is the "Eat Da Burger" application using MVC. This app will let the user in
 
 * [Installation](#installation)
 
-* [Usage](#usage)
-
-* [Contributing](#contributing)
-
 * [Tests](#tests)
 
 * [Questions](#questions)
@@ -35,16 +31,6 @@ To install necessary dependencies, run the following command:
 ```
 npm install
 ```
-
-## Usage
-
-nothing
-
-
-  
-## Contributing
-
-
 
 ## Tests
 
